@@ -3,7 +3,7 @@
 
 // Landing Page feita com bootstrap criada durante o curso Fullstack javascript da OneBitCode. 
 
-Tecnologias usadas:
+Tecnologias usadas (tecnologies):
 HTML 
 CSS (SASS)
 
